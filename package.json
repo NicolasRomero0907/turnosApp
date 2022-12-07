@@ -20,7 +20,7 @@
   "dependencies": {
     "@material-ui/core": "^4.10.1",
     "css-loader": "^3.5.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "firebase": "^7.15.0",
     "html-webpack-plugin": "^4.3.0",
     "react": "^16.13.1",
